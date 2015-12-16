@@ -1,6 +1,6 @@
 Generate comprehensive multipanel plots to visualize data, data products, best fitting models, and fit quality diagnostics: Figures 2-6, and Figure 8 in Sobolewska et al. 2014, ApJ, 786, 143.
 
-Directory data/ contains Fermi/LAT lightcurves (ascii) and output files with modeling results: CAR1 (Kelly et al. 2009), supOU (Kelly, Sobolewska, Siemiginowska 2011).
+Fermi/LAT lightcurves and files with results of modeling (Kelly, Sobolewska, Siemiginowska 2011) stored in data/ directory (not included in this repository).
 
 * Generate any of Figs. 2-6, e.g. for PKS 1633:
 
