@@ -1,6 +1,10 @@
-Generate comprehensive multipanel plots to visualize data, data products, best fitting models, and fit quality diagnostics: Figures 2-6, and Figure 8 in Sobolewska et al. 2014, ApJ, 786, 143.
+## About
 
-Fermi/LAT lightcurves and files with results of modeling (Kelly, Sobolewska, Siemiginowska 2011) stored in data/ directory (not included in this repository).
+Tool to generate comprehensive multipanel plots to visualize data, data products, best fitting models, and fit quality diagnostics: Figures 2-6, and Figure 8 in Sobolewska et al. 2014, ApJ, 786, 143.
+
+Fermi/LAT lightcurves and files with results of modeling (Kelly, Sobolewska, Siemiginowska 2011) stored in ```data/``` directory (not included in this repository).
+
+## Usage
 
 * Generate any of Figs. 2-6, e.g. for PKS 1633:
 
